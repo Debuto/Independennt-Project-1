@@ -1,0 +1,21 @@
+h1 {
+  font-style: strong;
+  text-align: center;
+  outline: auto;
+  color: #6C786A;
+}
+h2 {
+  text-align: center;
+  outline: auto;
+  color: #6C786A;
+}
+body {
+  background-color: #E9C7D5;
+}
+aside {
+  text-decoration: underline;
+  padding-left: 3%;
+}
+.Center {
+  text-align: center;
+}
