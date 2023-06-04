@@ -16,6 +16,21 @@ aside {
   text-decoration: underline;
   padding-left: 3%;
 }
+ul {
+  padding-bottom: 50px;
+}
+ol {
+  padding-bottom: 50px;
+}
+li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 .Center {
   text-align: center;
+}
+.FLASHY {
+  padding-top: 500px;
+  color: red;
+  font-size: 250px;
 }
