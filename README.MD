@@ -1,3 +1,24 @@
+(If interested in my work feel free to clone by following below instructions or by copying and pasting this link into your browser: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+To Clone this repository:
+
+1. Go to the main page
+2. Click on the CODE button
+3. Copy the URL to the repository
+4. Open Git Bash (or whichever terminal is appropiate for your OS)
+5. Change your directory to where you want to add the cloned remote repository (use the commannd cd ex. \fie_path\destination)
+6. Type this in Git Bash: git clone https://github.com/Debuto/Independent-Project-1.git
+7. Press ENTER output should look similiar to below:
+
+---
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+---
+
 This is Deante's Portfolio.HTML
 Epicodus and coding partners from weekly lessons for knnnowledge of HTML
 This HTML will display a simple webpage of I, Deante Cacatian, detailing 
