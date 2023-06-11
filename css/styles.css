@@ -34,3 +34,7 @@ li {
   color: red;
   font-size: 250px;
 }
+.righty {
+  float: right;
+  max-width: 500px;
+}
